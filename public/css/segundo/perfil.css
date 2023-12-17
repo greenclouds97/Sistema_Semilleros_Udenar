@@ -1,0 +1,21 @@
+#modal-icono{font-size: 3em;}
+.foto-perfil{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+}
+.container {
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.56); /* Cambia los valores para ajustar la sombra */
+    padding: 20px; /* Agrega un poco de espacio al contenido dentro del contenedor */
+    border-radius: 10px;
+}
+
+#lb{
+    color: #56a347;
+}
+
+#contenedor-form {
+    width: 90%;
+    text-align: left;
+}
